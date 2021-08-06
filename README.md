@@ -1,4 +1,4 @@
-# Screen Area Sharing
+# SASH - Screen Area Sharing
 This script was created to allow for sharing of a selectable area of the screen on video chat applications like Discord and Google Meet.
 Right now this script is very specific to my installation, so it may need adjustments to run on other systems.
 
