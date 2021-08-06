@@ -8,8 +8,8 @@ I probably will not change much on this script as it is very specific to my envi
 # Installation
 This script needs the following applications installed:
 - `ffcast` (2.5.0)
-- `ffmpeg` (^n4.4)
-- `ffplay` (^n4.4)
+- `ffmpeg` (n4.4)
+- `ffplay` (n4.4)
 - `yad` (10.1)
 
 Also, add these lines to your i3 config file, customizing what makes sense for your environment:
